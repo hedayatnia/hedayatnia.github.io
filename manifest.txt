@@ -116,6 +116,7 @@ design/images/JVujFwELsrjiV9HuhZwMIchnWQo.png
 design/images/IlpILEraNGTl9VDIrOCWad2LFM.png
 design/images/5yHjHQEJFDUaLvgvKBs4Yq8WEhk.png
 design/images/5y6JKJKUXKghqayRwfFjAsdY.png
+design/images/4W1M3yp6gDGhknxCPDj2n5Lxe8.png
 build/style.css
 build/standalone.js
 build/react.development.js
