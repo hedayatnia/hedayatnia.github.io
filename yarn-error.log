@@ -1,11 +1,11 @@
 Arguments: 
-  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/lib/cli.js outdated --cwd /Users/pah861/Library/Autosave Information/Framer-26B81F35-A4D8-464A-845B-62EDDC19BD7B/container --skip-integrity-check --cache-folder /Users/pah861/Library/Caches/Framer/yarn/cache --mutex file:/Users/pah861/Library/Caches/Framer/yarn/mutex --json
+  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/lib/cli.js outdated --cwd /Users/pah861/Library/Autosave Information/Framer-26B81F35-A4D8-464A-845B-62EDDC19BD7B/container --skip-integrity-check --cache-folder /Users/pah861/Library/Caches/Framer/yarn/cache --mutex file:/Users/pah861/Library/Caches/Framer/yarn/mutex --json --link-folder /Users/pah861/Library/Application Support/Framer X/yarn-link-folder
 
 PATH: 
   /usr/bin:/bin:/usr/sbin:/sbin
 
 Yarn version: 
-  1.9.4
+  1.13.0
 
 Node version: 
   10.13.0
@@ -22,8 +22,7 @@ npm manifest:
   	"main": "dist/index.js",
   	"license": "MIT",
   	"devDependencies": {
-  		"@types/react": "^16.4.16",
-  		"framer": "^0.10.5"
+  		"@types/react": "^16.4.16"
   	},
   	"peerDependencies": {
   		"framer": "^0.10.5",
@@ -662,10 +661,6 @@ Lockfile:
     dependencies:
       babel-preset-env "^1.6.1"
       dompurify "^1.0.3"
-  
-  framer@^0.10.5:
-    version "0.10.5"
-    resolved "https://registry.yarnpkg.com/framer/-/framer-0.10.5.tgz#44ca478658fd4ef77d7e84a948f612f2f541224a"
   
   globals@^9.18.0:
     version "9.18.0"
